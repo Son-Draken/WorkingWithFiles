@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\bin\Debug\xmlDOMcteni.exe.config
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\bin\Debug\xmlDOMcteni.exe
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\bin\Debug\xmlDOMcteni.pdb
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\obj\Debug\xmlDOMcteni.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\obj\Debug\xmlDOMcteni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\obj\Debug\xmlDOMcteni.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\obj\Debug\xmlDOMcteni.exe
+C:\Users\Analytik\source\repos\xmlDOMcteni\xmlDOMcteni\obj\Debug\xmlDOMcteni.pdb

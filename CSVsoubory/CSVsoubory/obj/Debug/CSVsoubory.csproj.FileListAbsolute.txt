@@ -1,0 +1,11 @@
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\bin\Debug\CSVsoubory.exe.config
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\bin\Debug\CSVsoubory.exe
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\bin\Debug\CSVsoubory.pdb
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.Form1.resources
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.Properties.Resources.resources
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.csproj.GenerateResource.cache
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.exe
+C:\Users\Analytik\source\repos\CSVsoubory\CSVsoubory\obj\Debug\CSVsoubory.pdb

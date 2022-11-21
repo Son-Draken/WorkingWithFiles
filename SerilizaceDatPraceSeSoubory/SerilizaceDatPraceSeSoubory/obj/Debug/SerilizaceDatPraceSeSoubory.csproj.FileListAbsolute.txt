@@ -1,0 +1,11 @@
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\bin\Debug\SerilizaceDatPraceSeSoubory.exe.config
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\bin\Debug\SerilizaceDatPraceSeSoubory.exe
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\bin\Debug\SerilizaceDatPraceSeSoubory.pdb
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.Form1.resources
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.Properties.Resources.resources
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.csproj.GenerateResource.cache
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.exe
+C:\Users\Analytik\source\repos\SerilizaceDatPraceSeSoubory\SerilizaceDatPraceSeSoubory\obj\Debug\SerilizaceDatPraceSeSoubory.pdb

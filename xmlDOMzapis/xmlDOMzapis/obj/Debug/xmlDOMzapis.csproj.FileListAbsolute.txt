@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\bin\Debug\xmlDOMzapis.exe.config
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\bin\Debug\xmlDOMzapis.exe
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\bin\Debug\xmlDOMzapis.pdb
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\obj\Debug\xmlDOMzapis.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\obj\Debug\xmlDOMzapis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\obj\Debug\xmlDOMzapis.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\obj\Debug\xmlDOMzapis.exe
+C:\Users\Analytik\source\repos\xmlDOMzapis\xmlDOMzapis\obj\Debug\xmlDOMzapis.pdb

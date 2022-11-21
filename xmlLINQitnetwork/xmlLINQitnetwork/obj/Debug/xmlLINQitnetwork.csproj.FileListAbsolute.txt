@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\bin\Debug\xmlLINQitnetwork.exe.config
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\bin\Debug\xmlLINQitnetwork.exe
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\bin\Debug\xmlLINQitnetwork.pdb
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\obj\Debug\xmlLINQitnetwork.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\obj\Debug\xmlLINQitnetwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\obj\Debug\xmlLINQitnetwork.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\obj\Debug\xmlLINQitnetwork.exe
+C:\Users\Analytik\source\repos\xmlLINQitnetwork\xmlLINQitnetwork\obj\Debug\xmlLINQitnetwork.pdb

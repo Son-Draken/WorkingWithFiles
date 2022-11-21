@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\bin\Debug\xmlSoubory.exe.config
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\bin\Debug\xmlSoubory.exe
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\bin\Debug\xmlSoubory.pdb
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\obj\Debug\xmlSoubory.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\obj\Debug\xmlSoubory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\obj\Debug\xmlSoubory.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\obj\Debug\xmlSoubory.exe
+C:\Users\Analytik\source\repos\xmlSoubory\xmlSoubory\obj\Debug\xmlSoubory.pdb

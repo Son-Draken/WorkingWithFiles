@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\bin\Debug\xmlSouborCteni.exe.config
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\bin\Debug\xmlSouborCteni.exe
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\bin\Debug\xmlSouborCteni.pdb
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\obj\Debug\xmlSouborCteni.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\obj\Debug\xmlSouborCteni.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\obj\Debug\xmlSouborCteni.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\obj\Debug\xmlSouborCteni.exe
+C:\Users\Analytik\source\repos\xmlSouborCteni\xmlSouborCteni\obj\Debug\xmlSouborCteni.pdb
