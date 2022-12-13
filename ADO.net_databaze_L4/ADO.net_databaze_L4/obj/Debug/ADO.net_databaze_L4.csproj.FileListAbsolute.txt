@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\bin\Debug\ADO.net_databaze_L4.exe.config
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\bin\Debug\ADO.net_databaze_L4.exe
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\bin\Debug\ADO.net_databaze_L4.pdb
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\obj\Debug\ADO.net_databaze_L4.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\obj\Debug\ADO.net_databaze_L4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\obj\Debug\ADO.net_databaze_L4.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\obj\Debug\ADO.net_databaze_L4.exe
+C:\Users\Analytik\source\repos\ADO.net_databaze_L4\ADO.net_databaze_L4\obj\Debug\ADO.net_databaze_L4.pdb
