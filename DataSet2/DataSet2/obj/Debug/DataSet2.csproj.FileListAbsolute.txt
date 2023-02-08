@@ -1,0 +1,8 @@
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\bin\Debug\DataSet2.exe.config
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\bin\Debug\DataSet2.exe
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\bin\Debug\DataSet2.pdb
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\obj\Debug\DataSet2.csproj.AssemblyReference.cache
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\obj\Debug\DataSet2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\obj\Debug\DataSet2.csproj.CoreCompileInputs.cache
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\obj\Debug\DataSet2.exe
+C:\Users\Analytik\source\repos\DataSet2\DataSet2\obj\Debug\DataSet2.pdb

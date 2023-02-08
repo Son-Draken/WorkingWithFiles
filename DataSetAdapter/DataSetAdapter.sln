@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSetAdapter", "DataSetAdapter\DataSetAdapter.csproj", "{96A1C115-F11A-4097-BB0F-CA47377387EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A1C115-F11A-4097-BB0F-CA47377387EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A1C115-F11A-4097-BB0F-CA47377387EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A1C115-F11A-4097-BB0F-CA47377387EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A1C115-F11A-4097-BB0F-CA47377387EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F1B47C-EA6E-46CC-96F8-DF3FB0171032}
+	EndGlobalSection
+EndGlobal
